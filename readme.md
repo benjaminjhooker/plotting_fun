@@ -13,4 +13,4 @@ The `noise` option seemed like more fun to plot more than essentially a line.
 
 As the range increases from the intial values \[-1pi to 1pi\] to broader values, the number of 'loops' in the polar plot increases.
 
-![](readme_files/figure-markdown_github/unnamed-chunk-1-1.png)
+![display-unnamed-chunk-1-1](readme_files/figure-markdown_github/unnamed-chunk-1-1.png)
