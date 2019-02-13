@@ -7,7 +7,8 @@ The `noise` option seemed like more fun to plot more than essentially a line.
 As the range increases from the intial values [-1pi to 1pi] to broader values, the number of 'loops' in the
 polar plot increases.
 
-```{r, echo = FALSE}
+```{r}
+library(ggplot2)
 x <- seq(-(2)*pi, (2)*pi, by = pi/100)
 
 y <- sin(x) + rnorm(x, 0, sd = .05)
