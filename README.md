@@ -1,4 +1,4 @@
-# plotting_fun
+# Plotting Fun and Pi
 A simple example of plotting in a shiny app using generated data based on pi.
 
 There are two different widgets types (slider and radio buttons) that allow a dynamic plotting environment.  
